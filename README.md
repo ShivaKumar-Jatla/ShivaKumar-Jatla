@@ -9,7 +9,6 @@ I'm a passionate Computer Science and Engineering student at **BVRIT** with a st
 - 🎓 **College:** BVRIT  
 - 🏫 **Branch:** Computer Science and Engineering - AI & ML (B.Tech)  
 - 💡 **Interests:** Python, Web Development, Data Analytics  
-- 🚀 **Current Project:** [Todo List](https://github.com/SHIVAKUMARJATLA/Todo-List)  
 
 ---
 
